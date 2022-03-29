@@ -1,1 +1,1 @@
-# Diyorbeklar-rsschool-cv
+https://diyorbeklar.github.io/rsschool-cv/
