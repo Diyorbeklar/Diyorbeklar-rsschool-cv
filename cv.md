@@ -1,3 +1,2 @@
-#  Diyorbek Kholikulov 
-#
-#
+#  Diyorbek 
+
